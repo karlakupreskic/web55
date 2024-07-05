@@ -1,0 +1,300 @@
+@media only screen and (max-width:768px){
+    .parentnaslova{
+        display: none;
+    }
+.parentdivova{
+    display: none;
+  
+}.rowDiv{
+    display: none;
+}
+.tekst5{
+    display: none;
+}
+.lil5{
+    display: none;
+}
+.lil6{
+    display: none;
+}
+
+.malilogo{
+    display: none;
+}
+.section3{
+    background-color: rgb(240, 239, 239);
+}
+.divp{
+    background-color: white;
+}
+.divp1{
+    background-color: white;
+}
+.dadgrid{
+    background-color: white;
+}
+.section4{
+    background-color: white;
+}
+
+    .navbar{
+        width: 100vw;
+        margin-top: 0px;
+
+    
+    }
+    .div2{
+        flex-wrap: wrap;
+        flex-direction: row;
+        gap: 4px;
+        padding-top: 0px;
+        padding-left: 0px;
+        margin-top:0px ;
+        margin-bottom: 0px;
+    }
+    .p{
+      
+        gap: 0px;
+        padding-top: 0px;
+        padding-left: 0px;
+        margin-bottom:0px ;
+    }
+    .btnb1{
+        color: pink;
+        text-decoration: none;
+    }
+    .img{
+   margin: 5px;
+   margin-top: 30px;
+   
+    }
+    .div2{
+        padding: 0px;
+    }
+    .box1{
+       width: 100vw;
+       height: 80vh; 
+       background-size: cover;
+       background-repeat:repeat ;
+    }
+   .imgk{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    transition: 1s ease-in-out;
+   } 
+   .slej{
+    height: 220px!important;
+    width: 200px!important;
+    top:35%;
+    left: 3%;
+    display: none;
+   }
+   .kidaj{
+    height: 420px!important;
+    width: 400px!important;
+    top: 53%;
+    left: 16%;
+   }
+   .slejara{
+    height: 220px!important;
+    width: 200px!important;
+    top: 36%;
+    left: 62%;
+    display: none;
+   }
+   .img1{
+    width: 200px;
+    height: 300px;
+   }
+   .imgb1{
+    background-image: url(./IMG_7694.jpg);
+    width: 300px;
+    height: 150px;
+    background-repeat:no-repeat ;
+    background-size: contain;
+    transition: transform 1s ease;
+   }
+   .imgb1:hover{
+    transform: scale(1.1);
+}
+.blogparent{
+    height:90% ;
+}
+.blogp1{
+    font-size: 14px;
+}
+.blogsp1{
+    font-size: 12px;
+}
+.blogp2{
+    font-size: 14px;
+}
+.blogsp2{
+    font-size: 12px;
+}
+.blogp3{
+    font-size: 14px;
+}
+.blogsp3{
+    font-size: 12px;
+}
+.imgb2{
+    background-image: url(./IMG_5293.jpg);
+    width: 300px;
+    height: 150px;
+    background-repeat:no-repeat ;
+    background-size: contain;
+    transition: transform 1s ease;
+}
+.imgb2:hover{
+    transform: scale(1.1);
+}
+.imgb3{
+    background-image: url(./IMG_2973.jpg);
+    width: 300px;
+    height: 150px;
+    background-repeat:no-repeat ;
+    background-size: contain;
+    transition: transform 1s ease;
+}
+.imgb3:hover{
+    transform: scale(1.1);
+}
+.tekstic1{
+    font-size: 12px;
+}
+.sliki1{
+    padding: 0px;
+}
+.tekstic2{
+    font-size: 12px;
+}
+.sliki2{
+    padding: 0px;
+}
+.divp1{
+width: 100%;
+height: 50px;
+gap: 5px;
+
+}
+.naslovp{
+    
+    font-size: 25px;
+}
+.k1{
+    font-size: 10px;
+    color: rgb(45, 44, 44);
+    transition: 1s;
+    cursor: pointer;
+    font-weight: bold;
+}
+.g1{
+    grid-area: g1;
+    background-image:url(./IMG_1767.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    transition:transform 0.5s ease;
+
+}
+.g1:hover{
+    transform:scale(1.1)
+}
+.grid1{
+    width: 75%;
+    height: 800px;
+    gap: 14px;
+}
+.malisection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.malilogo{
+    width: 220px;
+    height: 100px;
+    background-image: url(https://www.maliprogramer.ba/static/media/maliProgramerLogo.c6611a7506e9809ef6e9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clientp{
+    font-size: 30px;
+}
+.naslovb{
+    font-size: 25px;
+}
+.naslov{
+    font-size: 27px;
+  padding-top: 70px;
+  padding-left: 20px;
+}
+.podnaslov{
+    font-size: 22px;
+}
+.tekst{
+    font-size: 12px;
+}
+.btndiv{
+    width: 200px;
+    height: 100px;
+    margin-top: 40px;
+   cursor: pointer;
+    display: flex;
+    gap: 11px;
+   
+}
+.sect1{
+    width: 50%;
+    height: 100%;
+   margin-top: -70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sect2{   
+     width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+gap: 10px;
+margin-top: 100px;
+}
+.slideshow-container{
+    margin-top: 100px;
+    height: 400px;
+}
+.fotp1{
+    font-size: 16px;
+font-weight: bold;
+}
+.fotp2{
+    font-size: 16px;
+font-weight: bold;
+}
+.fotp3{
+    font-size: 16px;
+font-weight: bold;
+}
+.fotsp1{
+    font-size: 10px;
+}
+.fotsp2{
+    font-size: 12px;
+}
+.fotsp3{
+    font-size: 12px;
+}
+.footer1{
+    width: 100%;
+    height: 400px;
+    gap: 10px;
+    display: flex;
+    padding-top: 100px;
+}
+.slide-img{
+    background-color: rgb(240, 239, 239);
+}
+
+
+}

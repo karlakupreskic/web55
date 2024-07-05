@@ -1,0 +1,70 @@
+@media only screen and (max-width:1040px){
+   .blogparent{
+    width: 100%;
+    height: 80%;
+    display: flex;
+   }
+.blogs{
+    gap: 20px;
+    width: 85%;
+height: 50%;
+display: flex;
+}
+.navbar{
+    width: 100vw;
+}
+.malisection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.malilogo{
+    
+    width: 420px;
+    height: 200px;
+    background-image: url(https://www.maliprogramer.ba/static/media/maliProgramerLogo.c6611a7506e9809ef6e9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgk{
+    height: 400px;
+    width: 350px;
+
+    position: absolute;
+     transition: 1s ease-in-out;
+}
+.slej{
+    top: 21%;
+}
+.kidaj{
+    top: 20%;
+}
+.lil5{
+    display: none;
+}
+.lil6{
+    display: none;
+}
+
+.tekst5{
+display: none;
+}
+.slide-img{
+    background-color: rgb(240, 239, 239);
+}
+.slideshow-container{
+    margin-top: 100px;
+    height: 400px;
+   
+}
+.footer1{
+    width: 100%;
+    height: 400px;
+    gap: 10px;
+    display: flex;
+    padding-top: 100px;
+ 
+}
+
+
+}
